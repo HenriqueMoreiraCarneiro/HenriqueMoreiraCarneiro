@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Henrique Carneiro
 
-<!--
-**HenriqueMoreiraCarneiro/HenriqueMoreiraCarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de TI | QA em Automação | Futuro Desenvolvedor Full Stack (Laravel + PHP)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo / estou aprendendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,mysql,git,github,docker,cypress" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+- Desenvolvimento Web com PHP e Laravel  
+- Testes Automatizados (Cypress)
+- Banco de Dados MySQL  
+- Docker
+
+---
+
+## 📫 Como me encontrar
+- 💼 GitHub: **@HenriqueMoreiraCarneiro**
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMoreiraCarneiro&show_icons=true&theme=tokyonight)
